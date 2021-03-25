@@ -1,0 +1,20 @@
+{
+    "name": "carloswph/stringer-things",
+    "description": "Helpers, methods and tools for dealing with strings in PHP.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "WP Helpers",
+            "email": "carlos@wp-helpers.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Stringer\\": "src/"
+        }
+    }
+}
